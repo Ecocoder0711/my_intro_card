@@ -2,7 +2,7 @@
 
 A stylish, animated, and personal introduction card built with Flutter. This project showcases a clean user interface with dynamic animations to present a professional and engaging digital card.
 
-<img src="assets/images/My_Intro.png" alt="App Screenshot" width="350"/>
+<img src="assets/images/My_Intro.png" alt="App Screenshot" width="350" height = "600"/>
 
 ## 📜 Description
 
