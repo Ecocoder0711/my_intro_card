@@ -83,7 +83,6 @@ class _IntroScreenState extends State<IntroScreen> {
               ),
             ),
             const SizedBox(width: 15), // Spacing between image and text.
-            
             // 2. Right Side: Text Information (column)
             Expanded(
               child: Column(
